@@ -10,7 +10,7 @@ on the sale of their products.
 The analysis will inform what this strategy might look like to
 ensure Instacart targets the right customer profiles with the appropriate products. 
 
-The stakeholders would like to be able to answer the following **key questions**:  
+**The stakeholders would like to be able to answer the following key questions**:  
 
 - The sales team needs to know what the busiest days of the week and hours of the
 day are in order to schedule ads at times when there are fewer orders
@@ -26,8 +26,8 @@ use simpler price range groupings to help direct their efforts.
 and sales teams want to know which departments have the highest frequency of
 product orders.
 
-The marketing and sales teams are particularly interested in the different types of
-customers in their system and how their ordering behaviors differ.
+**The marketing and sales teams are particularly interested in the different types of
+customers in their system and how their ordering behaviors differ.**
 
 - What’s the distribution among users in regards to their brand loyalty?
   
